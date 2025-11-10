@@ -1,8 +1,6 @@
 # My own custom AIDA64 SensorPanel!
 
------
-
-That's is my personal sensor panel! 
+That's is my personal sensor panel! With all the values that are important in my eyes, presented in a compact and clean way
 
 It has a resolution of ```2560 x 720``` and therefore fits perfectly on the [Corsair Xeneon Edge](https://www.corsair.com/de/de/explorer/gamer/monitors/corsair-xeneon-edge/?srsltid=AfmBOor2jlZt06g87vyhdLfUl6yCoW-XWeo7dL-RFKcHGhcWN3YRWKt8) display!
 
